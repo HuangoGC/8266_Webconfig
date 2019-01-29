@@ -1,3 +1,3 @@
-# ESP8266_NONOS_SDK
+# ESP8266 网页配置
 
-All documentations @ http://espressif.com/en/support/download/documents?keys=&field_type_tid%5B%5D=14
+使用AP模式进行网页配置STA连接的WIFI名称及密码
